@@ -1,0 +1,22 @@
+Historia del lenguaje C
+
+Lo que se:
+Lenguaje compilado y fuertemente tipado, que fue desarrollado despues de otros lenguajes como A y B.
+La mayoria de los lenguajes de programacion actuales estan basados en CSe usa para el desarrollo de sistemas operativos, el kernel de GNU/Linux esta escrito en elnguaje C
+Los creadores fueron Denis Richie y Brian Kernighan.
+
+¿Que?
+
+¿Quien?
+
+¿Como?
+
+¿Donde?
+
+Ejemplo. Hola mundo
+
+include<stdio.h>
+int main(){
+	printf("Hola Mundo Cruel")
+	return0;
+}
